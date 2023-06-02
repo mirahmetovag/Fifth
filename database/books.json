@@ -1,0 +1,28 @@
+[
+  {
+    "id": "b22d449f-f217-4b9d-9e35-ae03c8ecdafb",
+    "name": "NAME",
+    "author": "AUTHOR",
+    "year": "2000",
+    "content": "CONTENT",
+    "category": "Drama",
+    "cover": "004b175e-5ed4-43cb-81bd-a7a6c77039ee.jpeg"
+  },
+  {
+    "id": "58dd19ad-c37b-4d16-ab33-fdd9ea26e570",
+    "name": "name",
+    "author": "author",
+    "year": "1999",
+    "content": "content",
+    "category": "Classic"
+  },
+  {
+    "id": "0a8d1b78-3d47-4e63-bf12-aca7af15fa40",
+    "name": "name",
+    "author": "author",
+    "year": "1999",
+    "content": "content",
+    "category": "Classic",
+    "cover": "6f0efcf4-3bff-4d55-a10a-f419bfc41ca4.jpeg"
+  }
+]
